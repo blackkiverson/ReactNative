@@ -28,8 +28,7 @@ const Greeting = (props) => {
 // component that is used in many different places in your app, with 
 // slightly different properties in each place. Refer to 
 // props.YOUR_PROP_NAME in your functional components or 
-// this.props.YOUR_PROP_NAME in your class components. Here's an 
-// example:
+// this.props.YOUR_PROP_NAME in your class components.
 
 const LotsOfGreetings = () => {
   return (
