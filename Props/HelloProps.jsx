@@ -14,7 +14,7 @@ const styles = StyleSheet.create({
 
 // Most components can be customized when they are created, with different 
 // parameters. These creation parameters are called props.
-// We creating a prop component called Greetings.
+// We creating a prop component called name.
 
 const Greeting = (props) => {
   return (
@@ -28,8 +28,7 @@ const Greeting = (props) => {
 // component that is used in many different places in your app, with 
 // slightly different properties in each place. Refer to 
 // props.YOUR_PROP_NAME in your functional components or 
-// this.props.YOUR_PROP_NAME in your class components. Here's an 
-// example:
+// this.props.YOUR_PROP_NAME in your class components.
 
 const LotsOfGreetings = () => {
   return (
