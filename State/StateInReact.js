@@ -25,8 +25,8 @@ const App = () => {
 };
 
 //CSS
-.container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
+// .container {
+//     display: flex;
+//     justify-content: center;
+//     align-items: center;
+// }
